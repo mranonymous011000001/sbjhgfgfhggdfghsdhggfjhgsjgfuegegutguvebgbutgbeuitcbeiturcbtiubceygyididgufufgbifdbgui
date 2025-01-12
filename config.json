@@ -1,56 +1,49 @@
 {
-    "admins": [
-        6740635909
-    ],
-    "groups": [
-        {
-            "group_id": 1,
-            "source_channels": [
-                -1002168373668
-            ],
-            "client_channels": [
-                -1002097831753
-            ]
-        },
-        {
-            "group_id": 2,
-            "source_channels": [
-                -1002291786904
-            ],
-            "client_channels": [
-                -1002249295248
-            ]
-        },
-        {
-            "group_id": 3,
-            "source_channels": [
-                -1002431704098
-            ],
-            "client_channels": [
-                -1002392318273
-            ]
-        },
-        {
-            "group_id": 4,
-            "source_channels": [
-                -1002493259831
-            ],
-            "client_channels": [
-                -1002068707889
-            ]
-        },
-        {
-            "group_id": 5,
-            "source_channels": [
-                -1002352248527
-            ],
-            "client_channels": [
-                -1002413211106
-            ]
-        }
-    ],
-    "users": [
-        6740635909,
-        5077787832
-    ]
+  "groups": [
+    {
+      "group_id": 1,
+      "source_channels": [
+        -1002168373668
+      ],
+      "client_channels": [
+        -1002097831753
+      ]
+    },
+    {
+      "group_id": 2,
+      "source_channels": [
+        -1002291786904
+      ],
+      "client_channels": [
+        -1002249295248
+      ]
+    },
+    {
+      "group_id": 3,
+      "source_channels": [
+        -1002431704098
+      ],
+      "client_channels": [
+        -1002392318273
+      ]
+    },
+    {
+      "group_id": 4,
+      "source_channels": [
+        -1002493259831
+      ],
+      "client_channels": [
+        -1002068707889
+      ]
+    },
+    {
+      "group_id": 5,
+      "source_channels": [
+        -1002352248527
+      ],
+      "client_channels": [
+        -1002413211106
+      ]
+    }
+  ]
 }
